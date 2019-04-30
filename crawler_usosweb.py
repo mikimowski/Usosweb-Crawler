@@ -1,4 +1,4 @@
-# Maciej Mikuła usosweb scraper.
+# Maciej Mikuła usosweb crawler.
 # Gathers data about courses at University of Warsaw, Faculty of Mathematics, Informatics and Mechanics.
 # Data is saved into json file.
 
