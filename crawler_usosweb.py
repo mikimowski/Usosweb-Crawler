@@ -104,7 +104,7 @@ def get_classes_period(soup):
     try:
         return 'zimowy' if 'zimowy' in soup.find('i', text=re.compile('Semestr')).text.strip() else 'letni'
     except AttributeError:
-        return ""
+        return "całoroczny"
 
 
 def get_types_of_classes(soup):
