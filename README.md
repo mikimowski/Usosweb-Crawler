@@ -1,4 +1,4 @@
-# usosweb_crawler
+# Usosweb Crawler
 
 Website scraping script. <br/>
 Gathers data about courses at Faculty of Mathematics, Informatics and Mechanics | University of Warsaw <br/>
